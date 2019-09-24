@@ -1,0 +1,8 @@
+char *strcpy(char*p,char*q){
+          while(p){
+                      q=p;
+                      p++;
+                      }
+           q='/0';
+           return q;
+}
