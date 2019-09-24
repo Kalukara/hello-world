@@ -4,5 +4,6 @@ char *strcpy(char*p,char*q){
                       p++;
                       }
            q='/0';
+           /*?*/
            return q;
 }
